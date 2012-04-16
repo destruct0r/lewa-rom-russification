@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="install_locations">
+        <item>в тел.</item>
+        <item>на SD</item>
+    </string-array>
+</resources>

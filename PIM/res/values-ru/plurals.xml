@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="groupDescrip">
+        <item quantity="other">%0$d контактов</item>
+    </plurals>
+    <plurals name="groupDescripPhones">
+        <item quantity="other">%1$1$1$d контактов, %2$2$2$d с телефонами</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Показано %d контактов с номерами</item>
+        <item quantity="one">Показан 1 контакт с номером</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Показано %d контактов</item>
+        <item quantity="one">Показан 1 контакт</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Найдено %d контактов</item>
+        <item quantity="one">Найден 1 контакт</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d контактов</item>
+        <item quantity="one">1 контакт</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s сек</item>
+        <item quantity="one">%s сек</item>
+        <item quantity="few">%s сек</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$1$1$s результатов для \"%2$2$2$s\"</item>
+        <item quantity="one">%1$1$1$s результат для \"%2$2$2$s\"</item>
+    </plurals>
+</resources>

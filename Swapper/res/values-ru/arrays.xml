@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="onoff_filemode">
+        <item>создание swap(файла подкачки)</item>
+        <item>удаление swap(файла подкачки)</item>
+    </string-array>
+    <string-array name="onoff_partmode">
+        <item>создать swap (на SD разделе)</item>
+        <item>удалить swap (на SD разделе)</item>
+    </string-array>
+    <string-array name="onoff_sysmode">
+        <item>создать swap (в системном разделе)</item>
+        <item>удалить swap (в системном разделе)</item>
+    </string-array>
+    <string-array name="swap_file">
+        <item>создать файл подкачки</item>
+        <item>изменение разрешений</item>
+        <item>удалить файл подкачки</item>
+    </string-array>
+    <string-array name="system_file">
+        <item>создать системный файл</item>
+        <item>изменение разрешений</item>
+        <item>удалить системный файл</item>
+    </string-array>
+    <string-array name="onoff_mode">
+        <item>Swap создается</item>
+        <item>Swap выключается</item>
+        <item>Swap запускается</item>
+    </string-array>
+    <string-array name="howswap">
+        <item>в файле на sdCard</item>
+        <item>на ext4 разделе sdCard</item>
+    </string-array>
+    <string-array name="howswap_int">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="swapSize">
+        <item>32Mб</item>
+        <item>64Mб</item>
+        <item>96Mб</item>
+        <item>128Mб</item>
+    </string-array>
+    <string-array name="swapSize_int">
+        <item>32</item>
+        <item>64</item>
+        <item>96</item>
+        <item>128</item>
+    </string-array>
+</resources>

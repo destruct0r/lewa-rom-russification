@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Swapper</string>
+    <string name="swap_title">Настройки подкачки</string>
+    <string name="swap_on">включить</string>
+    <string name="swap_off">выключить</string>
+    <string name="swap_open">подкачка включена</string>
+    <string name="swap_close">подкачка выключена</string>
+    <string name="swap_autorun_title">Монтирование swap</string>
+    <string name="swap_autorun_on">подкачка уже смонтирована</string>
+    <string name="swap_autorun_off">подкачка еще не смонтирована</string>
+    <string name="swap_mode_title">Выбор режима swap</string>
+    <string name="swap_mode_summary">Выбор режима swap</string>
+    <string name="swapsize_title">размер файла подкачки</string>
+    <string name="swap_current_mode">текущий режим:</string>
+    <string name="swap_autorun">подкачка включена</string>
+    <string name="swapsize_summary_0">размер файла подкачки(unit:MB)</string>
+    <string name="swapsize_summary_1">размер файла подкачки</string>
+    <string name="swapsize_summary_2">подкачка выключена</string>
+    <string name="swapsize_summary_uint">(MB)</string>
+    <string name="system_size_limit">системный размер ограничен,нельзя включить подкачку</string>
+    <string name="system_open">системная подкачка включена</string>
+    <string name="file_open">файл подкачки открыт</string>
+    <string name="partition_open">раздел подкачки открыт</string>
+    <string name="swap_toast0">выберите режим подкачки</string>
+    <string name="swap_toast1">выберите размер файла подкачки</string>
+    <string name="no_partition">раздел подкачки не может быть открыт</string>
+    <string name="no_sdcard_open">нет sd карты или используется,подкачка не может быть запущена</string>
+    <string name="no_sdcard_close">нет sd карты или используется,подкачка не может быть выключена</string>
+    <string name="no_swap">подкачка не может быть выключена</string>
+    <string name="swap_open_failed">запуск подкачки не удался</string>
+    <string name="swap_close_failed">выключение подкачки не удалось.</string>
+    <string name="help_menu">Помощь</string>
+    <string name="sdcard_title">Советы по использыванию swap раздела</string>
+    <string name="sdcard_text">Чтобы создать виртуальный файл подкачки, вы выбираете карту памяти SD. Чтобы не нарушит работу телефона и стабильную работу системы, рекомендуется использовать SD-карту class6 и выше, пожалуйста, будьте внимательны!</string>
+    <string name="partition_title">Советы по использыванию виртуальной памяти на SD карте</string>
+    <string name="partition_text">Чтобы создать файл подкачки, вы выбираете карту памяти SD. Чтобы не нарушит работу телефона и стабильную работу системы, рекомендуется использовать SD-карту class6 и выше, пожалуйста, будьте внимательны!</string>
+    <string name="desc_text">Это приложение используется для управления виртуальной памятью, относится только к музыке Lewa OS, нужны ROOT права, для того чобы создать и установить виртуальную память. Для создания виртуальной памяти для заданного размера, может понадобится несколько минут, пожалуйста, будьте терпеливы. После завершени создания Виртуальной оперативной памяти, будет отображено сее состояние. Если вы хотите, пересоздать swap, то для начала вы должны сначала нажмите кнопку Закрыть и перезапустить телефон, а потом заново создать раздел swap. Создание swap раздера может привести к повреждению SD карты и нарушит стабильную работу системы, если Вы не будете использо...</string>
+    <string name="help">Управление виртуальной памятью</string>
+    <string name="ok">Установить</string>
+</resources>

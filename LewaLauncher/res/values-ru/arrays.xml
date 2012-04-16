@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="menu_binding_entries">
+        <item>Ни один</item>
+        <item>Перейти на экран по умолчанию</item>
+        <item>Перейти на экран по умолчанию/показать экраны</item>
+        <item>Показать экраны</item>
+        <item>Открыть/закрыть меню программ</item>
+        <item>Показать/спрятать статусбар</item>
+        <item>Открыть/закрыть уведомления</item>
+        <item>Перейти на экран по умолчанию/Открыть уведомления</item>
+        <item>Открыть/закрыть докбар</item>
+        <item>Открыть приложение...</item>
+    </string-array>
+    <string-array name="desktop_indicator_entries">
+        <item>Индикатор экранов вверху</item>
+        <item>Индикатор перемещений вверху</item>
+        <item>Индикатор экранов внизу</item>
+        <item>Индикатор перемещений внизу</item>
+    </string-array>
+    <string-array name="home_orientation_entries">
+        <item>Автоматически</item>
+        <item>Вертикальная</item>
+        <item>Горизонтальная</item>
+    </string-array>
+    <string-array name="screen_cache_entries">
+        <item>Низкое качество</item>
+        <item>Авто</item>
+        <item>Отключено</item>
+    </string-array>
+    <string-array name="main_dock_entries">
+        <item>Нет (расширить рабочий стол)</item>
+        <item>3 ярлыка</item>
+        <item>5 ярлыков</item>
+        <item>1 ярлык</item>
+    </string-array>
+    <string-array name="deletezone_entries">
+        <item>Нет</item>
+        <item>Вверху</item>
+        <item>Внизу</item>
+        <item>Вверху (Уменьшить рабочий стол)</item>
+        <item>Внизу (Уменьшить рабочий стол)</item>
+    </string-array>
+    <string-array name="app_drawer_style_entries">
+        <item>Вертикальная плоскость</item>
+        <item>Горизонтальная постраничная</item>
+    </string-array>
+    <string-array name="update_frequency_entries">
+        <item>Каждый 1 час</item>
+        <item>Каждые 3 часа</item>
+        <item>Каждые 6 часов</item>
+        <item>Каждые 12 часов</item>
+    </string-array>
+    <string-array name="temperature_unit_entries">
+        <item>По Цельсию</item>
+        <item>По Фаренгейту</item>
+    </string-array>
+    <string-array name="hotCityNames">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Guangzhou</item>
+        <item>Shenzhen</item>
+        <item>Wuhan</item>
+        <item>Nanjing</item>
+        <item>Hangzhou</item>
+        <item>Xian</item>
+        <item>Zhengzhou</item>
+        <item>Chengdu</item>
+        <item>Dongguan</item>
+        <item>Shenyang</item>
+        <item>Tianjin</item>
+        <item>Haerbin</item>
+        <item>Changsha</item>
+        <item>Fuzhou</item>
+        <item>Sanya</item>
+        <item>Suzhou</item>
+        <item>Chongqing</item>
+        <item>Wuxi</item>
+        <item>Jinan</item>
+        <item>Dalian</item>
+        <item>Xiamen</item>
+        <item>Nanchang</item>
+        <item>Taiyuan</item>
+        <item>Changchun</item>
+        <item>Hefei</item>
+        <item>Qingdao</item>
+        <item>Kunming</item>
+        <item>Nanning</item>
+    </string-array>
+    <string-array name="folders">
+        <item>Новая папка</item>
+        <item>Игры</item>
+        <item>Инструменты</item>
+        <item>Социальные</item>
+    </string-array>
+    <string-array name="desktop_transition_effect_entries">
+        <item>Классическая</item>
+        <item>Обратная прокрутка</item>
+        <item>Куб</item>
+        <item>Переворот</item>
+        <item>Стек</item>
+    </string-array>
+    <string-array name="desktop_transition_effect">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>

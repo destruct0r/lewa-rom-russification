@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">Контакты</string>
+    <string name="provider_label">Контакты</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Необходимо больше памяти для обновления контактов</string>
+    <string name="upgrade_out_of_memory_notification_title">Обновление памяти контактов</string>
+    <string name="upgrade_out_of_memory_notification_text">Нажмите, чтобы завершить обновление.</string>
+</resources>

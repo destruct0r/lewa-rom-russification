@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Нет передачи данных %s минут</item>
+        <item quantity="one">Нет передачи данных %s минута</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Телефон будет в экстренном режиме в течение %s минут. В этом режиме никакие приложения не могут использовать передачу данных. Хотели бы Вы выйти теперь?</item>
+        <item quantity="one">Телефон будет в экстренном режиме в течение %s минут. В этом режиме никакие приложения не могут использовать передачу данных. Хотели бы Вы выйти теперь?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Выбранное действие недоступно, только в экстренном режиме. Телефон будет в этом режиме в течение %s минут. Хотели бы Вы выйти теперь?</item>
+        <item quantity="one">无法在紧急回拨模式下执行所选操作。手机会在此模式下持续 %s 分钟。要立即退出吗？</item>
+    </plurals>
+</resources>

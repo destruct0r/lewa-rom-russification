@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>:\'(</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+    </string-array>
+    <array name="pref_mms_user_agent_entries">
+        <item>Default Android</item>
+        <item>Nokia N95</item>
+        <item>iPhone (3.0)</item>
+        <item>BlackBerry 8800</item>
+        <item>Sony Ericsson W800i</item>
+        <item>SoftBank X01T</item>
+        <item>@string/pref_mms_custom_option</item>
+    </array>
+    <string-array name="pref_mms_user_agent_values">
+        <item>default</item>
+        <item>NokiaN95/11.0.026; Series60/3.1 Profile/MIDP-2.0 Configuration/CLDC-1.1</item>
+        <item>iPhoneOS/3.0 (7A341)</item>
+        <item>BlackBerry8800/4.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100</item>
+        <item>SonyEricssonW800i/R1L</item>
+        <item>SoftBank/1.0/X01T/SCJ001</item>
+        <item>custom</item>
+    </string-array>
+    <string-array name="pref_mms_message_font_size_entries">
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18 (Default)</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="pref_mms_message_font_size_values">
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+    </string-array>
+    <array name="pref_mms_notification_vibrate_pattern_entries">
+        <item>Нормальная</item>
+        <item>Средняя</item>
+        <item>Долгая</item>
+        <item>Много коротких</item>
+        <item>Много длинных</item>
+        <item>@string/pref_mms_custom_option</item>
+    </array>
+    <string-array name="pref_mms_notification_vibrate_pattern_values">
+        <item></item>
+        <item>0,1200</item>
+        <item>0,2500</item>
+        <item>0,300,100,300,100,300,100,300,100,300</item>
+        <item>0,800,200,800,200,800</item>
+        <item>custom</item>
+    </string-array>
+    <string-array name="pref_templates_gestures_sensitivity_entries">
+        <item>1 (broadest)</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12 (strictest)</item>
+    </string-array>
+    <string-array name="pref_templates_gestures_sensitivity_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="entries_vm_button">
+        <item>Добавить в контакты</item>
+        <item>СМС/ММС</item>
+        <item>Голосовая почта</item>
+    </string-array>
+    <string-array name="entryvalues_numbers">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="vm_handlers">
+        <item>Google Voice/com.google.android.apps.googlevoice/.SplashActivity</item>
+        <item>HulloMail UK Visual Voicemail/com.hullomail.android.messaging/.HulloMail</item>
+        <item>HulloMail US Visual Voicemail/com.hullomail.android.messaging.us/.HulloMail</item>
+        <item>PhoneFusion Visual Voicemail/com.phonefusion.voicemailplus.android/.VoicemailPlus</item>
+        <item>T-Mobile Visual Voicemail/com.oz.mobile.android.voicemail.application/.application</item>
+        <item>YouMail Visual Voicemail/com.loadedbanana.android.youmail/.activity.MessageList</item>
+    </string-array>
+    <string-array name="view_contact_pic_sizes">
+        <item>Малый (По умолчанию)</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Очень большой</item>
+    </string-array>
+    <string-array name="view_contact_pic_sizes_values">
+        <item>78</item>
+        <item>100</item>
+        <item>116</item>
+        <item>128</item>
+    </string-array>
+    <string-array name="view_data_font_sizes">
+        <item>Малый (По умолчанию)</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Очень большой</item>
+    </string-array>
+    <string-array name="view_data_font_sizes_values">
+        <item>14</item>
+        <item>18</item>
+        <item>22</item>
+        <item>26</item>
+    </string-array>
+    <array name="view_default_phone_tabs">
+        <item>@string/default_phone_tab_last_used</item>
+        <item>@string/default_phone_tab_last_viewed</item>
+        <item>@string/default_phone_tab_phone</item>
+        <item>@string/default_phone_tab_call_log</item>
+        <item>@string/default_phone_tab_contacts</item>
+        <item>@string/default_phone_tab_favorites</item>
+    </array>
+    <string-array name="quickreply_sms">
+        <item>Получено!</item>
+        <item>Спасибо!</item>
+        <item>Да пошел ты!</item>
+        <item>Занят...Позвоню позже...</item>
+        <item>Поехали по бабам.</item>
+        <item>Время бухать...Ты в курсе!</item>
+        <item>Какого хрена?</item>
+        <item>Привет, это я.</item>
+        <item>Набери меня.</item>
+        <item>Зашибись!</item>
+        <item>Ну и...?</item>
+        <item>Мои поздравления!</item>
+    </string-array>
+    <string-array name="ip_call_location_provinces">
+        <item>BeiJing</item>
+        <item>ShangHai</item>
+        <item>TianJin</item>
+        <item>ChongQing</item>
+        <item>AnHui</item>
+        <item>FuJian</item>
+        <item>GanSu</item>
+        <item>GuangDong</item>
+        <item>GuangXi</item>
+        <item>GuiZhou</item>
+        <item>HaiNan</item>
+        <item>HeBei</item>
+        <item>HeNan</item>
+        <item>HeiLongJiang</item>
+        <item>HuBei</item>
+        <item>HuNan</item>
+        <item>JiLin</item>
+        <item>JiangXu</item>
+        <item>JiangXi</item>
+        <item>LiaoNing</item>
+        <item>NeiMengGu</item>
+        <item>NingXia</item>
+        <item>QingHai</item>
+        <item>ShanDong</item>
+        <item>Shan1Xi</item>
+        <item>Shan3Xi</item>
+        <item>SiChuan</item>
+        <item>XiZang</item>
+        <item>XinJiang</item>
+        <item>YunNan</item>
+        <item>ZheJiang</item>
+    </string-array>
+    <string-array name="ip_call_location_anhui_cities">
+        <item>HeFei</item>
+        <item>AnQing</item>
+        <item>BengBu</item>
+        <item>ChaoHu</item>
+        <item>ChiZhou</item>
+        <item>ChuZhou</item>
+        <item>FuYang/HaoZhou</item>
+        <item>HuaiBei</item>
+        <item>HuaiNan</item>
+        <item>HuangShan</item>
+        <item>LuAn</item>
+        <item>MaAnShan</item>
+        <item>SuZhou</item>
+        <item>TongLing</item>
+        <item>WuHu</item>
+        <item>XuanCheng</item>
+    </string-array>
+    <string-array name="ip_call_location_fujian_cities">
+        <item>FuZhou</item>
+        <item>LongYan</item>
+        <item>NanPing</item>
+        <item>NingDe</item>
+        <item>PuTian</item>
+        <item>QuanZhou</item>
+        <item>SanMing</item>
+        <item>XiaMen</item>
+        <item>ZhangZhou</item>
+    </string-array>
+    <string-array name="ip_call_location_gansu_cities">
+        <item>LanZhou</item>
+        <item>BaiYin</item>
+        <item>DingXi</item>
+        <item>GanNan</item>
+        <item>JiaYuGuan/JiuQuan</item>
+        <item>JinChan/WuWei</item>
+        <item>LinXia</item>
+        <item>LongNan</item>
+        <item>PingLiang</item>
+        <item>QingYang</item>
+        <item>TianShui</item>
+        <item>ZhangYe</item>
+    </string-array>
+    <string-array name="ip_call_location_guangdong_cities">
+        <item>GuangZhou</item>
+        <item>ChaoZhou</item>
+        <item>DongGuan</item>
+        <item>FoShan</item>
+        <item>HeYuan</item>
+        <item>HuiZhou</item>
+        <item>JiangMen</item>
+        <item>JieYang</item>
+        <item>MaoMing</item>
+        <item>MeiZhou</item>
+        <item>QingYuan</item>
+        <item>ShanTou</item>
+        <item>ShanWei</item>
+        <item>ShaoGuan</item>
+        <item>ShenZhen</item>
+    </string-array>
+    <string-array name="ip_call_location_guangxi_cities">
+        <item>NanNing</item>
+        <item></item>
+    </string-array>
+    <string-array name="ip_call_location_guizhou_cities">
+        <item></item>
+    </string-array>
+    <string-array name="ip_call_location_hainan_cities">
+        <item></item>
+    </string-array>
+    <string-array name="ip_call_location_hebei_cities">
+        <item></item>
+    </string-array>
+    <string-array name="ip_call_location_henan_cities">
+        <item></item>
+    </string-array>
+    <string-array name="ip_call_location_heilongjiang_cities">
+        <item></item>
+    </string-array>
+    <string-array name="ip_call_location_hubei_cities">
+        <item>WuHan</item>
+    </string-array>
+    <string-array name="ip_call_location_hunan_cities">
+        <item>ChangSha</item>
+    </string-array>
+    <string-array name="ip_call_location_jilin_cities">
+        <item>ChangChun</item>
+    </string-array>
+    <string-array name="ip_call_location_jiangsu_cities">
+        <item>NanJing</item>
+    </string-array>
+    <string-array name="ip_call_location_jiangxi_cities">
+        <item>NanChang</item>
+    </string-array>
+    <string-array name="ip_call_location_liaoning_cities">
+        <item>ShenYang</item>
+    </string-array>
+    <string-array name="ip_call_location_neimenggu_cities">
+        <item>HuHeHaoTe</item>
+    </string-array>
+    <string-array name="ip_call_location_ningxia_cities">
+        <item>YinChuan</item>
+    </string-array>
+    <string-array name="ip_call_location_qinghai_cities">
+        <item>XiNing</item>
+    </string-array>
+    <string-array name="ip_call_location_shandong_cities">
+        <item>JiNan</item>
+    </string-array>
+    <string-array name="ip_call_location_shan1xi_cities">
+        <item>TaiYuan</item>
+    </string-array>
+    <string-array name="ip_call_location_shan3xi_cities">
+        <item>XiAn</item>
+    </string-array>
+    <string-array name="ip_call_location_sichuan_cities">
+        <item>ChengDu</item>
+    </string-array>
+    <string-array name="ip_call_location_xizang_cities">
+        <item>LaSa</item>
+    </string-array>
+    <string-array name="ip_call_location_xinjiang_cities">
+        <item>WuLuMuQi</item>
+    </string-array>
+    <string-array name="ip_call_location_yunnan_cities">
+        <item>KungMing</item>
+    </string-array>
+    <string-array name="ip_call_location_zhejiang_cities">
+        <item>HangZhou</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organization</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Другое…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Всегда</item>
+        <item>В реж. бесшумно</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+</resources>
